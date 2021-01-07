@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+	background-color: cornflowerblue;
+}
+#Blob{
+	color: cornsilk;
+}
+h4{
+	color: blanchedalmond;
+}
+div{
+	margin-top: 15px;
+}
+.image-section{
+	display: flex;
+	justify-content: center;
+}
+.section-style{
+	margin-right: 25px;
+	margin-left: 25px;
+	background-color: darksalmon;
+	flex: 33.33%;
+	padding: 5px;
+}
+p{
+	font-family: cursive;
+	color: navajowhite;
+}
